@@ -1,3 +1,5 @@
+## moviepulse frontend
+A responsive frontend application for a movie platform, built with React, Vite, and Tailwind CSS. Dockerized for easy deployment.
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
